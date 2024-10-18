@@ -32,4 +32,9 @@ Windows uses GUI where Linux uses both CLI & GUI.
   <strong>Example : </strong> `mkdir fl`
   >through this command you can make directory inside or outside your directory.
 
-- 
+### Types of Users :  
+  
+1. Root User : Controls Terminal as Admin.  
+2. Regular User : A regular user with limited access.  
+> To use terminal as Admin use command ` sudo su ` .  
+  
